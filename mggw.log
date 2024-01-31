@@ -516,3 +516,23 @@
         [RESULT <pID:20008>]: 
         main
          - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:07:17 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:07:31 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
