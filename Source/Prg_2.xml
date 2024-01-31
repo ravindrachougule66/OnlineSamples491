@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Test" ISN_2="1" LastIsn="1" id="2">
+        <Header Description="Test" ISN_2="1" LastIsn="2" id="2">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -27,9 +27,9 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738916" _time="80721" date="31/01/2024" time="22.25.21"/>
+          <LastModified _date="738916" _time="81184" date="31/01/2024" time="22.33.04"/>
         </Header>
-        <ItemIsn val="3"/>
+        <ItemIsn val="4"/>
         <Resource>
           <Columns>
             <Column id="1" name="A">
@@ -177,17 +177,17 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="738916" _time="80721" date="31/01/2024" time="22.25.21"/>
+            <LastModified _date="738916" _time="81184" date="31/01/2024" time="22.33.04"/>
           </Header>
-          <ItemIsn val="1"/>
+          <ItemIsn val="4"/>
           <Resource>
             <Columns>
               <Column id="33554433" name="A">
                 <PropertyList model="FIELD">
                   <Model attr_obj="FIELD_ALPHA" id="1"/>
-                  <Picture id="157" valUnicode="10"/>
+                  <Picture id="157" valUnicode="20"/>
                   <StoredAs id="173" val="1"/>
-                  <Size id="174" val="10"/>
+                  <Size id="174" val="20"/>
                   <_Flip id="194"/>
                 </PropertyList>
               </Column>
@@ -251,7 +251,7 @@
             </BOX>
           </Information>
           <TaskLogic>
-            <LogicUnit id="33554433" propagate="78">
+            <LogicUnit id="3" propagate="78">
               <Level val="R"/>
               <Type val="M"/>
               <Scope val="S"/>
@@ -307,7 +307,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="738916" _time="80721" date="31/01/2024" time="22.25.21"/>
+            <LastModified _date="738916" _time="81184" date="31/01/2024" time="22.33.04"/>
           </Header>
           <ItemIsn val="1"/>
           <Resource>
