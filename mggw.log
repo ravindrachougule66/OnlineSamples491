@@ -536,3 +536,423 @@
         [RESULT <pID:20008>]: 
         main
          - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:07:46 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:07:51 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+22:07:52 
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:07:57 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:02 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+22:08:03git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:08 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:14 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:20 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:26 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:31 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+22:08:32 
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:37 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:42 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:48 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:53 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:08:59 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:04 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:09 
+        [COMMAND <pID:20008>]: 
+22:09:10E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:15 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:20 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+22:09:20git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:26 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:31 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:37 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:42 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:48 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:53 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:09:58 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+22:09:59 
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:04 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:09 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+22:10:10 
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:15 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:20 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:26 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:31 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:36 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+22:10:37 
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:42 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:47 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+22:10:48git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:53 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:10:58 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:11:04 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:11:09 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:11:14 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+22:11:15[RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:11:20 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:11:26 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+         
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+22:11:27main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
+22:19:30 
+        [COMMAND <pID:20008>]: 
+        E:\MagicXPA\xpa481\GITScripts\BranchList.bat C:\Users\chouguleR\AppData\Local\Temp\ 20008
+22:19:31 
+        [GIT COMMAND <pID:20008>]: 
+        git rev-parse --abbrev-ref HEAD  1>C:\Users\chouguleR\AppData\Local\Temp\\git_answer_20008.txt 2>C:\Users\chouguleR\AppData\Local\Temp\\git_error_20008.txt
+         
+        [RESULT <pID:20008>]: 
+        main
+         - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 
