@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Test" ISN_2="1" LastIsn="2" id="2">
+        <Header Description="Test" ISN_2="1" LastIsn="3" id="2">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738916" _time="80618" date="31/01/2024" time="22:23:38"/>
+          <LastModified _date="738916" _time="81008" date="31/01/2024" time="22:30:08"/>
         </Header>
         <ItemIsn val="2"/>
         <Resource>
@@ -164,7 +164,7 @@
           </FormEntry>
         </TaskForms>
         <Task MainProgram="N">
-          <Header Description="T1" ISN_2="33554434" id="2">
+          <Header Description="T1" ISN_2="33554434" LastIsn="3" id="2">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -177,7 +177,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="738916" _time="80618" date="31/01/2024" time="22:23:38"/>
+            <LastModified _date="738916" _time="81008" date="31/01/2024" time="22:30:08"/>
           </Header>
           <ItemIsn val="1"/>
           <Resource>
@@ -185,9 +185,9 @@
               <Column id="33554433" name="A">
                 <PropertyList model="FIELD">
                   <Model attr_obj="FIELD_ALPHA" id="1"/>
-                  <Picture id="157" valUnicode="10"/>
+                  <Picture id="157" valUnicode="20"/>
                   <StoredAs id="173" val="1"/>
-                  <Size id="174" val="10"/>
+                  <Size id="174" val="20"/>
                   <_Flip id="194"/>
                 </PropertyList>
               </Column>
